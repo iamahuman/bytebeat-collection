@@ -1,0 +1,3 @@
+Bytebeat musics from http://codegolf.stackexchange.com/questions/4746/write-the-prettiest-bytebeat-composition/4749#4749
+
+Everything except bytebeat, melody, simple (--format=S16_LE) requires --format=U8
